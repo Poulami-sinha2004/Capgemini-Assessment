@@ -273,7 +273,7 @@ Example:
 ```
 jdbc:mysql://localhost:3306/jpa_demo
 username: root
-password: root
+password: system
 ```
 
 ### Step 3
